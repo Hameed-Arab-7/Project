@@ -1,2 +1,3 @@
 # Projects 
-About the client site
+About the client site.
+King of trading
